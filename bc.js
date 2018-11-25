@@ -2,9 +2,9 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 client.on('ready', async() => {
 var server = "399549569769144320"; // ايدي السررفر
-var channel = "407304549653807105";//ايدي الروم
+var channel = "515593865575661578";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , **')
+    client.guilds.get(server).channels.get(channel).send('**Glory is the best , Glory is the best , Glory is the best , Glory is the beste , Glory is the best , Glory is the best , Glory is the best , **')
     },305);
 });
 
@@ -12,4 +12,4 @@ var channel = "407304549653807105";//ايدي الروم
 
 
 
-client.login("NTE0ODE2NDc2NzQ2NjEyNzM2.DtcEHQ.5NIUWDVlAPZxBGpmaLBtarb3UHA");
+client.login("NTA2NDU3OTE2MTQ5MDcxODcy.DtwPyQ.UeAJ8rgcmCnz3ZNEOcUSVN844uI");
